@@ -31,7 +31,7 @@ const CONFIG = {
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
-	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
 	defaultLatitude: '52.520008',
 	defaultLongitude: '13.404954',
 
@@ -67,13 +67,13 @@ const CONFIG = {
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://www.phind.com/,
 		},
 		{
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://calendar.proton.me',
 		},
 		{
 			id: '5',
