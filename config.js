@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://www.phind.com/,
+			link: 'https://www.phind.com/',
 		},
 		{
 			id: '4',
